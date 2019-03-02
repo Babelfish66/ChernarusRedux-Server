@@ -45,22 +45,22 @@ sleep 60; //Wait in seconds before the credits start after player is in-game
 //playSound "intro"; // This calls the code inside of description.ext //
 
 _role1 = "Welcome to";
-_role1names = ["Monza's EXILE ChernarusRedux Server"];
+_role1names = ["YOUR TEXT HERE"];
 
 _role2 = "ADM";
-_role2names = ["Monza"];
+_role2names = ["YOUR TEXT HERE"];
 
 _role3 = "DONATE";
-_role3names = ["No, I'm good"];
+_role3names = ["YOUR TEXT HEREd"];
 
 _role4 = "Server Rules and Features";
-_role4names = ["Have a look in XM8 app "];
+_role4names = ["YOUR TEXT HERE "];
 
 _role5 = "Stuff";
-_role5names = ["100K startup|EMB|AI roaming, in moderate numbers|"];
+_role5names = ["YOUR TEXT HERE|"];
 
 _role6 = "Stuff 2";
-_role6names = ["DMS|Occupie|RF3 tow and loadin|Cup weaps and vehicles|adv. Tow/sling/rapelling| More to come"];
+_role6names = ["YOUR TEXT HERE"];
 
 
 {
